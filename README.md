@@ -2,6 +2,15 @@
   <img width="800" height="400" alt="TanGO" src="TanGO.png" />
 </div>
 
+Este proyecto fue desarrollado durante la cursada de la asignatura **Gestión del Desarrollo de Sistemas Informáticos (TC017)** de la Facultad de Ingeniería, Universidad de Buenos Aires.
+## Equipo
+- [Lihuen Carranza](https://github.com/lihuencarranza)
+- [Helen Chen](https://github.com/helu-chen)
+- [Victor Cipriano](https://github.com/cipriano-victor)
+- [Martin Gonzalez Prieto](https://github.com/tin-gprieto)
+- [Santiago Langer](https://github.com/astrocinco)
+- [Candela Piccin](https://github.com/cpiccin)
+
 # Descripción del Proyecto
 **TanGo** es una plataforma de viajes y reseñas de destinos turísticos que combina un backend robusto con un frontend moderno.
 
@@ -34,3 +43,4 @@
 - **Propietarios/dueños**: pueden publicar y administrar sus hoteles, restaurantes y atracciones turísticas, visualizar reseñas y sugerencias de mejora
 
 En esencia, es una aplicación tipo TripAdvisor/Google Maps especializada en conectar viajeros con proveedores de servicios turísticos, permitiendo que los viajeros descubran y comenten sobre destinos mientras que los propietarios gestionan sus negocios y reciben retroalimentación valiosa.
+

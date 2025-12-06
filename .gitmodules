@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Gestion-Grupo-6/gestion-g6-front.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Gestion-Grupo-6/gestion-g6-back.git

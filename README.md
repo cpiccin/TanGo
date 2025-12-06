@@ -20,14 +20,14 @@
 - Base de datos MongoDB para almacenar información de hoteles, restaurantes y actividades
 
 ## Características principales:
-🔍 Búsqueda y filtrado de lugares turísticos
-⭐ Sistema de reseñas y calificaciones
-💬 Chatbot con IA para sugerencias de viaje
-🗺️ Mapas de ubicación
-📱 Panel de usuario 
-🔔 Sistema de notificaciones
-📊 Dashboard de propietarios para gestionar sus establecimientos
-📈 Métricas y análisis para dueños de negocios
+🔍 Búsqueda y filtrado de lugares turísticos <br>
+⭐ Sistema de reseñas y calificaciones <br>
+💬 Chatbot con IA para sugerencias de viaje <br>
+🗺️ Mapas de ubicación <br>
+📱 Panel de usuario <br>
+🔔 Sistema de notificaciones <br>
+📊 Dashboard de propietarios para gestionar sus establecimientos <br>
+📈 Métricas y análisis para dueños de negocios <br>
 
 ## Plataforma bidireccional:
 - **Usuarios viajeros**: pueden buscar, reseñar y calificar lugares turísticos, interactuar con la comunidad y además de recibir sugerencias personalizadas con IA
